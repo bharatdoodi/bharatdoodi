@@ -1,2 +1,3 @@
 - [know yourself](https://www.youtube.com/watch?v=OVH7JNRVSec)
 - [link](https://www.sahajayoga.org.in/)
+- *please do not consider any other NON-sahaja yoga channel / program / person other than stated here*
