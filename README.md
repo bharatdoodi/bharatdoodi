@@ -1,8 +1,8 @@
-- [know yourself](https://www.youtube.com/watch?v=OVH7JNRVSec)
+<!-- [know yourself](https://www.youtube.com/watch?v=OVH7JNRVSec)
 - [link](https://www.sahajayoga.org.in/)
 - *please do not consider any other NON-sahaja yoga channel / program / person*
 
-
+-->
 <h1 align="center">Hi 👋, I'm Bharat Doodi</h1>
 <h3 align="center">from India</h3>
 
