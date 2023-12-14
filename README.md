@@ -1,6 +1,6 @@
 - [know yourself](https://www.youtube.com/watch?v=OVH7JNRVSec)
 - [website](https://www.sahajayoga.org.in/)
-- *please do not consider and follow any other NON-sahaja yoga channel / program / person.*
+- **please do not consider and follow any other NON-sahaja yoga channel / program / person.**
 
 
 <h1 align="center">Hi 👋, I'm Bharat Doodi</h1>
