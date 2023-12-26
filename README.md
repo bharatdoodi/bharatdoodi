@@ -6,15 +6,15 @@
 <h1 align="center">Hi 👋, I'm Bharat Doodi</h1>
 <h3 align="center">from India</h3>
 
-- 🔭 I’m currently working on **...**
+- 🔭 I’m currently working on **on**
 
-- 👯 I’m looking to collaborate on **...**
+- 👯 I’m looking to collaborate on **nothing**
 
-- 🤝 I’m looking for help with **...**
+- 🤝 I’m looking for help with **no one**
 
-- 💬 Ask me about **...**
+- 💬 Ask me about **nothing**
 
-- ⚡ Fun fact **Fun is fact.**
+- ⚡ Fun fact **above are facts.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
