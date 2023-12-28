@@ -8,9 +8,9 @@
 
 - 🔭 I’m currently working on **on**
 
-- 👯 I’m looking to collaborate on **nothing**
+- 👯 I’m looking to collaborate on **on**
 
-- 🤝 I’m looking for help with **no one**
+- 🤝 I’m looking for help with **everyone**
 
 - 💬 Ask me about **nothing**
 
