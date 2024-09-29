@@ -6,9 +6,9 @@
 <h1 align="center">Hi 👋, I'm Bharat Doodi</h1>
 <h3 align="center">from India</h3>
 
-- 🔭 I’m currently working on **on**
+- 🔭 I’m currently working on **something**
 
-- 👯 I’m looking to collaborate on **on**
+- 👯 I’m looking to collaborate on **anything**
 
 - 🤝 I’m looking for help with **everyone**
 
