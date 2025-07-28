@@ -25,3 +25,4 @@
 Have Question to yourself :-
 - Who i am? Where i am? What i am doing?
 - you don't have answers buddy. But, the answer lies within yourself.
+- Your life is nothing worth, what ever success achieve in this world...if you didn't KNOW YOURSELF.
