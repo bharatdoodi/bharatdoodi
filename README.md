@@ -19,8 +19,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href="https://fb.com/facebook" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" /></a>
-<a href="https://instagram.com/instagram" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/bharat-d-2527012a3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bharat-d-2527012a3" height="30" width="40" /></a>
 
 Have Question to yourself :-
 - Who i am? Where i am? What i am doing?
